@@ -4,108 +4,63 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 10 Most Influential People</title>
-    <link rel="stylesheet" href="https://bootswatch.com/4/litera/bootstrap.min.css">
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.css">
     <style>
         .hide {
             display: none;
+        }
+
+        .collection-item {
+            padding: 2rem 0 !important;
+        }
+
+        .collection-item a {
+            text-decoration: none;
+        }
+
+        .ordinal-num {
+            padding: .5rem .8rem;
+            background: #363636;
+            border-radius: .3rem;
+            margin: .5rem;
+            color: #fff;
+        }
+
+        .name {
+            font-weight: bold;
+            color: #636363;
+        }
+
+        .time-period {
+            font-weight: normal;
+            color: #636363;
+            cursor: default;
+        }
+
+        .occupation {
+            color: #636363;
+            cursor: default;
         }
     </style>
 
 </head>
 <body>
-    <div class="container">
-        <h2 class="text-success text-center p-4">Top 10 Most Influential People in history</h2>
-        <p class="text-secondary text-center">From the book The 100: A Ranking of the Most Influential Persons in History by Michael H. Hart</p>
-        <form class="p-4 form">
-            <div class="form-group">
-                <label for="search">Search here:</label>
-                <input id="search" type="text" class="form-control">
-            </div>
-        </form>
-        <br>
 
-        <table class="table table-striped" id="namesTable">
-            <thead>
-                <th class="text-success">#</th>
-                <th class="text-success">Name</th>
-                <th class="text-success">Time frame</th>
-                <th class="text-success">Occupation</th>
-                <th class="w-50 text-success">Summary</th>
-            </thead>
-            <tr>
-                <td class="table-item">1</td>
-                <td class="table-item">Muhammad (SAWS)</td>
-                <td class="table-item">570–632</td>
-                <td class="table-item">Secular and religious leader</td>
-                <td class="table-item">The central human figure of Islam, regarded by Muslims as a prophet of God and the last messenger. Also active as a social reformer, diplomat, merchant, philosopher, orator, legislator, military leader.</td>
-            </tr>
-            <tr>
-                <td class="table-item">2</td>
-                <td class="table-item">Isaac Newton</td>
-                <td class="table-item">1643–1727</td>
-                <td class="table-item">Scientist</td>
-                <td class="table-item">English physicist, mathematician, astronomer, natural philosopher, alchemist, and theologian. His law of universal gravitation and three laws of motion laid the groundwork for classical mechanics.</td>
-            </tr>
-            <tr>
-                <td class="table-item">3</td>
-                <td class="table-item">Jesus Christ</td>
-                <td class="table-item">Spiritual leader</td>
-                <td class="table-item">7–2 BC – 26–36 AD</td>
-                <td class="table-item">The central figure of Christianity, revered by Christians as the Son of God and the incarnation of God. Also regarded as a major prophet in Islam.</td>
-            </tr>
-            <tr>
-                <td class="table-item">4</td>
-                <td class="table-item">Buddha</td>
-                <td class="table-item">563–483 BC</td>
-                <td class="table-item">Spiritual leader</td>
-                <td class="table-item">Spiritual teacher and philosopher from ancient India. Founder of Buddhism and is also considered a Gautama Buddha in Hinduism.</td>
-            </tr>
-            <tr>
-                <td class="table-item">5</td>
-                <td class="table-item">Confucius</td>
-                <td class="table-item">551–479 BC</td>
-                <td class="table-item">Philosopher</td>
-                <td class="table-item">Chinese thinker and social philosopher, founder of Confucianism, whose teachings and philosophy have deeply influenced Chinese, Korean, Japanese, Vietnamese and Indonesian thought and life.</td>
-            </tr>
-            <tr>
-                <td class="table-item">6</td>
-                <td class="table-item">Paul of Tarsus</td>
-                <td class="table-item">5–67 AD</td>
-                <td class="table-item">Christian apostle</td>
-                <td class="table-item">One of the most notable of early Christian missionaries, credited with proselytizing and spreading Christianity outside of Palestine (mainly to the Romans) and author of numerous letters of the New Testament of the Bible.</td>
-            </tr>
-            <tr>
-                <td class="table-item">7</td>
-                <td class="table-item">Cài Lún</td>
-                <td class="table-item">50–121 AD</td>
-                <td class="table-item">Political official in imperial China</td>
-                <td class="table-item">Widely regarded as the inventor of paper and the papermaking process.</td>
-            </tr>
-            <tr>
-                <td class="table-item">8</td>
-                <td class="table-item">Johannes Gutenberg</td>
-                <td class="table-item">1398–1468</td>
-                <td class="table-item">Inventor</td>
-                <td class="table-item">German printer who invented the European mechanical printing press.</td>
-            </tr>
-            <tr>
-                <td class="table-item">9</td>
-                <td class="table-item">Christopher Columbus</td>
-                <td class="table-item">1451–1506</td>
-                <td class="table-item">Explorer</td>
-                <td class="table-item">Italian navigator, colonizer and explorer whose voyages led to general European awareness of the American continents.</td>
-            </tr>
-            <tr>
-                <td class="table-item">10</td>
-                <td class="table-item">Albert Einstein</td>
-                <td class="table-item">1879–1955</td>
-                <td class="table-item">Scientist</td>
-                <td class="table-item">German-born theoretical physicist, best known for his theory of relativity and specifically mass–energy equivalence, expressed by the equation E = mc2.</td>
-            </tr>
-        <tr>
-        </table>
-    </div>
+
+
+<div class="container">
+        <h2 class="center-align">Top 10 Most Influential People in history</h2>
+        <p>From the book The 100: A Ranking of the Most Influential Persons in History by Michael H. Hart</p>
+        <br>
+        <input type="text" id="filterInput" placeholder="Search...">
+         
+        <ul id="names" class="collection with-header">
+
+        <!--
+            content is inserted by JS
+        -->
+    
+  </div>
     <script src="app.js"></script>
 </body>
 </html>

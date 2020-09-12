@@ -1,0 +1,702 @@
+{
+        "1": [
+            {
+                "name": "Muhammad (SAWS)",
+                "time_period": "570 - 632 AD",
+                "occupation": "Prophet of Islam"
+            }
+        ],
+        "2": [
+            {
+                "name": "Isaac Newton",
+                "time_period": "1643 - 1727",
+                "occupation": "British mathematician and scientist"
+            }
+        ],
+        "3": [
+            {
+                "name": "Jesus Christ",
+                "time_period": "7–2 BC – 26–36 AD",
+                "occupation": "Spiritual teacher and central figure of Christianity"
+            }
+        ],
+        "4": [
+            {
+                "name": "Buddha",
+                "time_period": "563 - 483 BC",
+                "occupation": "Spiritual Teacher and founder of Buddhism"
+            }
+        ],
+        "5": [
+            {
+                "name": "Confucius",
+                "time_period": "551 - 479 BC",
+                "occupation": "Chinese philosopher"
+            }
+        ],
+        "6": [
+            {
+                "name": "Paul of Tarsus",
+                "time_period": "5 - 67 AD",
+                "occupation": "Christian missionary and one of the main writers of the New Testament"
+            }
+        ],
+        "7": [
+            {
+                "name": "Cài Lún",
+                "time_period": "50 - 121 AD",
+                "occupation": "Political official in imperial China"
+            }
+        ],
+        "8": [
+            {
+                "name": "Johann Gutenberg",
+                "time_period": "1395 – 1468",
+                "occupation": "Inventor of the printing press"
+            }
+        ],
+        "9": [
+            {
+                "name": "Christopher Columbus",
+                "time_period": "1451 – 1506",
+                "occupation": "Italian explorer landed in America"
+            }
+        ],
+        "10": [
+            {
+                "name": "Albert Einstein",
+                "time_period": "1879 – 1955",
+                "occupation": "German/US scientist discovered Theory of Relativity"
+            }
+        ],
+        "11": [
+            {
+                "name": "Louis Pasteur",
+                "time_period": "1822 – 1895",
+                "occupation": "French biologist. Developed cure for rabies and other infectious diseases"
+            }
+        ],
+        "12": [
+            {
+                "name": "Galileo Galilei",
+                "time_period": "1564 - 1642",
+                "occupation": " Italian scientist – confirmed heliocentric view of universe"
+            }
+        ],
+        "13": [
+            {
+                "name": "Aristotle",
+                "time_period": "384 BC - 322 BC",
+                "occupation": "Greek philosopher and polymath"
+            }
+        ],
+        "14": [
+            {
+                "name": "Euclid",
+                "time_period": "c. 325 - 265 BC",
+                "occupation": "Greek mathematician"
+            }
+        ],
+        "15": [
+            {
+                "name": "Moses",
+                "time_period": "c 1391 - 1271 BC",
+                "occupation": "A key figure of Jewish / Christian history gave 10 Commandments of Old Testament"
+            }
+        ],
+        "16": [
+            {
+                "name": "Charles Darwin",
+                "time_period": "1809 - 1882",
+                "occupation": "Scientist who proposed and popularised theory of evolution"
+            }
+        ],
+        "17": [
+            {
+                "name": "Shih Huang Ti",
+                "time_period": "259 - 210 BC",
+                "occupation": "King of the state of Qin who conquered and united different regions of China in 221 BC"
+            }
+        ],
+        "18": [
+            {
+                "name": "Augustus Caesar",
+                "time_period": "63 BC – AD 14",
+                "occupation": "First Emperor of Rome"
+            }
+        ],
+        "19": [
+            {
+                "name": "Nicolaus Copernicus",
+                "time_period": "1473 - 1543",
+                "occupation": "Renaissance mathematician and astronomer who believed Sun was centre of Universe – rather than earth"
+            }
+        ],
+        "20": [
+            {
+                "name": "Antoine Laurent Lavoisier",
+                "time_period": "1743 – 1794",
+                "occupation": "French chemist and biologist who had leading impact on the chemical revolution"
+            }
+        ],
+        "21": [
+            {
+                "name": "Constantine the Great",
+                "time_period": "272 AD – 337",
+                "occupation": "Roman Emperor who accepted Christian religion"
+            }
+        ],
+        "22": [
+            {
+                "name": "James Watt",
+                "time_period": "1736 – 1819",
+                "occupation": "Scottish engineer. Watt improved the Newcome steam engine creating an efficient steam engine"
+            }
+        ],
+        "23": [
+            {
+                "name": "Michael Faraday",
+                "time_period": "1791 – 1867",
+                "occupation": "English scientist who contributed in fields of electromagnetism and electrochemistry"
+            }
+        ],
+        "24": [
+            {
+                "name": "James Clerk Maxwell",
+                "time_period": "1831-1879",
+                "occupation": "Scottish physicist. Maxwell made a significant contribution to understanding electromagnetism"
+            }
+        ],
+        "25": [
+            {
+                "name": "Martin Luther",
+                "time_period": "1483-1546",
+                "occupation": "Sought to reform the Roman Catholic Church – starting the Protestant Reformation"
+            }
+        ],
+        "26": [
+            {
+                "name": "George Washington",
+                "time_period": "1732 – 1799",
+                "occupation": "Leader of US forces during American Revolution and 1st President of US"
+            }
+        ],
+        "27": [
+            {
+                "name": "Karl Marx",
+                "time_period": "1818 - 1883",
+                "occupation": "German Communist philosopher"
+            }
+        ],
+        "28": [
+            {
+                "name": "Orville & Wilbur Wright",
+                "time_period": "1871 – 1948 & 1867 – 1912",
+                "occupation": "Created and flew the first aeroplane"
+            }
+        ],
+        "29": [
+            {
+                "name": "Genghis Kahn",
+                "time_period": "1162 – 1227",
+                "occupation": "Military and political leader of the Mongols"
+            }
+        ],
+        "30": [
+            {
+                "name": "Adam Smith",
+                "time_period": "1723-1790",
+                "occupation": "Scottish social philosopher and pioneer of classical economics"
+            }
+        ],
+        "31": [
+            {
+                "name": "William Shakespeare",
+                "time_period": "1564- 1616",
+                "occupation": "English poet and playwright"
+            }
+        ],
+        "32": [
+            {
+                "name": "John Dalton",
+                "time_period": "1766 – 1844",
+                "occupation": "English chemist and physicist. Made contributions to atomic theory"
+            }
+        ],
+        "33": [
+            {
+                "name": "Alexander the Great",
+                "time_period": "356 BC – 323 BC",
+                "occupation": "King of Macedonia and military leader"
+            }
+        ],
+        "34": [
+            {
+                "name": "Napoleon Bonaparte",
+                "time_period": "1769 - 1821",
+                "occupation": "French military and political leader"
+            }
+        ],
+        "35": [
+            {
+                "name": "Thomas Edison",
+                "time_period": "1847 – 1931",
+                "occupation": "Inventor and businessman helped introduce electricity and electric light bulbs"
+            }
+        ],
+        "36": [
+            {
+                "name": "Antony van Leeuwenhoek",
+                "time_period": "1632-1723",
+                "occupation": "Dutch chemist – founder of microbiology"
+            }
+        ],
+        "37": [
+            {
+                "name": "William T.G. Morton",
+                "time_period": "1819 – 1868",
+                "occupation": "American dentist who pioneered the use of anaesthetic"
+            }
+        ],
+        "38": [
+            {
+                "name": "Guglielmo Marconi",
+                "time_period": "1874 – 1937",
+                "occupation": "Italian engineer who helped develop radio transmission"
+            }
+        ],
+        "39": [
+            {
+                "name": "Adolf Hitler",
+                "time_period": "1889 – 1945",
+                "occupation": "Dictator of Nazi Germany"
+            }
+        ],
+        "40": [
+            {
+                "name": "Plato",
+                "time_period": "424 - 348 BC",
+                "occupation": "Greek philosopher"
+            }
+        ],
+        "41": [
+            {
+                "name": "Oliver Cromwell",
+                "time_period": "1599-1658",
+                "occupation": "Leader of Parliamentarians in English civil war"
+            }
+        ],
+        "42": [
+            {
+                "name": "Alexander Graham Bell",
+                "time_period": "1847 – 1922",
+                "occupation": "Scottish inventor of the telephone"
+            }
+        ],
+        "43": [
+            {
+                "name": "Alexander Fleming",
+                "time_period": "1881-1955",
+                "occupation": "Scottish biologist who discovered penicillin"
+            }
+        ],
+        "44": [
+            {
+                "name": "John Locke",
+                "time_period": "1632-1704",
+                "occupation": "English political philosopher. Locke promoted a theory of liberal democracy and a social contract"
+            }
+        ],
+        "45": [
+            {
+                "name": "Ludwig van Beethoven",
+                "time_period": "1770 – 1827",
+                "occupation": "German composer of the classical and romantic period"
+            }
+        ],
+        "46": [
+            {
+                "name": "Werner Heisenberg",
+                "time_period": "1901–1976",
+                "occupation": "German theoretical physicist – one of the pioneers of Quantum mechanics"
+            }
+        ],
+        "47": [
+            {
+                "name": "Louis Daguerre",
+                "time_period": "1787–1851",
+                "occupation": "French artist and photographer, who is credited with the invention of the camera"
+            }
+        ],
+        "48": [
+            {
+                "name": "Simon Bolivar",
+                "time_period": "1783 – 1830",
+                "occupation": "Liberator of Latin American countries"
+            }
+        ],
+        "49": [
+            {
+                "name": "Rene Descartes",
+                "time_period": "1596 – 1650",
+                "occupation": "French philosopher and mathematician. “I think, therefore I am.”"
+            }
+        ],
+        "50": [
+            {
+                "name": "Michelangelo",
+                "time_period": "1475 – 1564",
+                "occupation": "Renaissance sculptor, painter and architect"
+            }
+        ],
+        "51": [
+            {
+                "name": "Pope Urban II",
+                "time_period": "1042 – 1099",
+                "occupation": "Influential Pope who ordered the first Crusade to the Holy Land and set up the Papal Court"
+            }
+        ],
+        "52": [
+            {
+                "name": "Umar ibn al-Khattab",
+                "time_period": "584 CE –  644 CE",
+                "occupation": "Powerful Muslim Caliphate and senior companion of Muhammad. An influential figure in Sunni Islam"
+            }
+        ],
+        "53": [
+            {
+                "name": "Asoka",
+                "time_period": "c. 260 – 232 BC",
+                "occupation": "Powerful Indian King who established large empire by conquest before converting to Buddhism and pursuing a peaceful approach"
+            }
+        ],
+        "54": [
+            {
+                "name": "St. Augustine",
+                "time_period": "354 – 430",
+                "occupation": "Influential Christian saint and writer, who shaped much of Western Christian thought"
+            }
+        ],
+        "55": [
+            {
+                "name": "William Harvey",
+                "time_period": "1578 – 1657",
+                "occupation": "English physician who made contributions to understanding how blood circulated in the body"
+            }
+        ],
+        "56": [
+            {
+                "name": "Ernest Rutherford",
+                "time_period": "1871 –  1937",
+                "occupation": "NZ born British physicist who made discoveries in atomic physics. His work on splitting the atom was influential for the development of atomic science"
+            }
+        ],
+        "57": [
+            {
+                "name": "John Calvin",
+                "time_period": "1509 - 1564",
+                "occupation": "Christian theologian who developed a strict brand of Protestant Christianity which stressed the doctrine of predestination"
+            }
+        ],
+        "58": [
+            {
+                "name": "Gregor Mendel",
+                "time_period": "1822 –  1884",
+                "occupation": "Czech/Austrian scientist and friar – who founded modern science of genetics"
+            }
+        ],
+        "59": [
+            {
+                "name": "Max Planck",
+                "time_period": "1858 – 1947",
+                "occupation": "German theoretical physicist who developed a theory of Quantum physics and discovered energy quanta"
+            }
+        ],
+        "60": [
+            {
+                "name": "Joseph Lister",
+                "time_period": "1827 – 1912",
+                "occupation": "British surgeon who pioneered the use of sterilisation and antiseptic surgery"
+            }
+        ],
+        "61": [
+            {
+                "name": "Nikolaus August Otto",
+                "time_period": "1832 – 1891",
+                "occupation": "German engineer who developed compressed charge internal combustion engine to run on petrol"
+            }
+        ],
+        "62": [
+            {
+                "name": "Francisco Pizarro",
+                "time_period": "1471 – 1541",
+                "occupation": "Spanish Conquistador who claimed Inca lands for Spain"
+            }
+        ],
+        "63": [
+            {
+                "name": "Hernando Cortes",
+                "time_period": "1485 – 1547",
+                "occupation": "Spanish Conquistador who conquered the Aztec lands of modern-day Mexico"
+            }
+        ],
+        "64": [
+            {
+                "name": "Thomas Jefferson",
+                "time_period": "1743 – 1826",
+                "occupation": "3rd President of US. Principle author of the US Declaration of Independence"
+            }
+        ],
+        "65": [
+            {
+                "name": "Queen Isabella I",
+                "time_period": "1451 – 1504",
+                "occupation": "Queen of Castille, who helped create a powerful and unified state of Spain whose influence spread to the Americas"
+            }
+        ],
+        "66": [
+            {
+                "name": "Joseph Stalin",
+                "time_period": "1878 – 1953",
+                "occupation": "Absolute ruler of the Soviet Union from 1924 to his death. Led the Soviet Union in WWII"
+            }
+        ],
+        "67": [
+            {
+                "name": "Julius Caesar",
+                "time_period": "100 BC – 44 BC",
+                "occupation": "Roman ruler who oversaw the demise of the Roman Republic to be replaced with a Roman Emperor. Militarily strengthened the power of Rome"
+            }
+        ],
+        "68": [
+            {
+                "name": "William the Conqueror",
+                "time_period": "1028 – 1087",
+                "occupation": "First Norman King of England"
+            }
+        ],
+        "69": [
+            {
+                "name": "Sigmund Freud",
+                "time_period": "1856 – 1939",
+                "occupation": "An Austrian neurologist who founded psychoanalysis, which involved the investigation of the subconscious, dreams and human mind"
+            }
+        ],
+        "70": [
+            {
+                "name": "Edward Jenner",
+                "time_period": "1749 – 1823",
+                "occupation": "Developed the world’s first vaccine (the smallpox vaccine). Known as the father of immunology"
+            }
+        ],
+        "71": [
+            {
+                "name": "Wilhelm Conrad Roentgen",
+                "time_period": "1845 – 1923",
+                "occupation": "German physicist who discovered electromagnetic waves or X-rays"
+            }
+        ],
+        "72": [
+            {
+                "name": "Johann Sebastian Bach",
+                "time_period": "1685 – 1750",
+                "occupation": "Composer and organist who created some of the world’s most beautiful music"
+            }
+        ],
+        "73": [
+            {
+                "name": "Lao Tzu",
+                "time_period": "6th Century BC – ?",
+                "occupation": "Author of Tao Te Ching and founder of Taoism"
+            }
+        ],
+        "74": [
+            {
+                "name": "Voltaire",
+                "time_period": "1694 –  1778",
+                "occupation": "A key figure of European Enlightenment. His satirical writings played a role in the French Revolution"
+            }
+        ],
+        "75": [
+            {
+                "name": "Johannes Kepler",
+                "time_period": "1571 – 1630",
+                "occupation": "German mathematician and astronomer who created laws of planetary motion"
+            }
+        ],
+        "76": [
+            {
+                "name": "Enrico Fermi",
+                "time_period": "1901 – 1954",
+                "occupation": "Italian-American physicist who created the first nuclear reactor"
+            }
+        ],
+        "77": [
+            {
+                "name": "Leonhard Euler",
+                "time_period": "1707 – 1783",
+                "occupation": "Swiss mathematician who made prolific discoveries in calculus and graph theory"
+            }
+        ],
+        "78": [
+            {
+                "name": "Jean-Jacques Rousseau",
+                "time_period": "1712-1778",
+                "occupation": "French philosopher, author of Social Contract"
+            }
+        ],
+        "79": [
+            {
+                "name": "Niccolo Machiavelli",
+                "time_period": "1469 –  1527",
+                "occupation": "Italian diplomat and Renaissance writer considered the father of political science"
+            }
+        ],
+        "80": [
+            {
+                "name": "Thomas Malthus",
+                "time_period": "1766 – 1834",
+                "occupation": "English scholar who raised concern over growing population"
+            }
+        ],
+        "81": [
+            {
+                "name": "John F. Kennedy",
+                "time_period": "1917 – 1963",
+                "occupation": "38th President of the US. Served at the height of the Cold War and helped defuse Cuban Missile Crisis"
+            }
+        ],
+        "82": [
+            {
+                "name": "Gregory Pincus",
+                "time_period": "1903 – 1967",
+                "occupation": "American biologist who created the oral contraceptive pill"
+            }
+        ],
+        "83": [
+            {
+                "name": "Mani",
+                "time_period": "216 – ?",
+                "occupation": "Iranian founder of Manichaeism, a gnostic religion which for a time was a rival to Christianity"
+            }
+        ],
+        "84": [
+            {
+                "name": "Lenin",
+                "time_period": "1870 – 1924",
+                "occupation": "Leader of the Russian Revolution and new Communist regime from 1917 to 1924"
+            }
+        ],
+        "85": [
+            {
+                "name": "Sui Wen Ti",
+                "time_period": "541 –  604",
+                "occupation": "Founder of China’s Sui Dynasty and reunifying China in 589"
+            }
+        ],
+        "86": [
+            {
+                "name": "Vasco da Gama",
+                "time_period": "1460s –1524",
+                "occupation": "Portuguese explorer, first European to reach India and establish a route for imperialism"
+            }
+        ],
+        "87": [
+            {
+                "name": "Cyrus the Great",
+                "time_period": "600 – 530 BC",
+                "occupation": "Founder of the Achaemenid Empire, the first Persian Empire. Relatively enlightened ruler"
+            }
+        ],
+        "88": [
+            {
+                "name": "Peter the Great",
+                "time_period": "1721 – 1725",
+                "occupation": "Russian Emperor who expanded the Tsarist Empire to make Russia European power"
+            }
+        ],
+        "89": [
+            {
+                "name": "Mao Zedong",
+                "time_period": "1893 – 1976",
+                "occupation": "Leader of the Communist Revolution and dictator of China from 1949-1974"
+            }
+        ],
+        "90": [
+            {
+                "name": "Francis Bacon",
+                "time_period": "1561 – 1626",
+                "occupation": "Creator of the scientific method and key figure in Scientific Revolution of the Enlightenment"
+            }
+        ],
+        "91": [
+            {
+                "name": "Henry Ford",
+                "time_period": "1863 – 1947",
+                "occupation": "Owner of Ford Motor Company. Revolutionised mass-production techniques"
+            }
+        ],
+        "92": [
+            {
+                "name": "Mencius",
+                "time_period": "385 – 303 BC",
+                "occupation": "Chinese philosopher one of the principal interpreters of Confucianism."
+            }
+        ],
+        "93": [
+            {
+                "name": "Zoroaster",
+                "time_period": "c. 1200 BC",
+                "occupation": "Iranian prophet who founded the religion of Zoroastrianism"
+            }
+        ],
+        "94": [
+            {
+                "name": "Queen Elizabeth I",
+                "time_period": "1533 – 1603",
+                "occupation": "Queen of England from 1558 to her death in 1603. Cemented England as a Protestant country, defeated Spanish Armada"
+            }
+        ],
+        "95": [
+            {
+                "name": "Mikhail Gorbachev",
+                "time_period": "1931 – ",
+                "occupation": "Leader of Soviet Communist Party who pursued reform – perestroika and glasnost to open Eastern Europe to democracy"
+            }
+        ],
+        "96": [
+            {
+                "name": "Menes",
+                "time_period": "c. 3000 BC",
+                "occupation": "Egyptian pharaoh who united Upper and Lower Egypt to found the First Dynasty"
+            }
+        ],
+        "97": [
+            {
+                "name": "Charlemagne",
+                "time_period": "742 – 814",
+                "occupation": "United Europe to form the Carolingian Empire. First western Emperor since the fall of Rome"
+            }
+        ],
+        "98": [
+            {
+                "name": "Homer",
+                "time_period": "?",
+                "occupation": "Greek poet who wrote Iliad and Odyssey"
+            }
+        ],
+        "99": [
+            {
+                "name": "Justinian I",
+                "time_period": "482 – 565",
+                "occupation": "Emperor of Eastern Roman Empire"
+            }
+        ],
+        "100": [
+            {
+                "name": "Mahavira",
+                "time_period": "6th century BC",
+                "occupation": "Principal figure of Jainism"
+            }
+        ]
+    }
